@@ -1,0 +1,24 @@
+{
+  "name": "html5-websockets",
+  "version": "1.0.0",
+  "description": "Small project involving HTML5 web sockets",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackluckyf/html5-websockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackluckyf/html5-websockets/issues"
+  },
+  "homepage": "https://github.com/zackluckyf/html5-websockets#readme",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  }
+}
